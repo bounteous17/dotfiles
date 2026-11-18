@@ -47,7 +47,8 @@ chezmoi diff
 | 🔑 **SSH** | `~/.ssh/config` | Host config only, **never keys** |
 | 🤖 **Claude Code** | `~/.claude/settings.json`, `~/.claude/CLAUDE.md` | Settings and global instructions |
 | 🖥️ **Claude Desktop** | `claude_desktop_config.json` | MCP server config |
-| 🐚 **zsh** | `~/.zshrc`, `~/.zshenv`, `~/.zprofile` | Shell setup |
+| 🐚 **zsh** | `~/.zshrc`, `~/.zprofile` | Shell setup |
+| 🐑 **herdr** | `~/.config/herdr/config.toml` | Terminal multiplexer for coding agents |
 
 ## 🔐 Secrets
 
