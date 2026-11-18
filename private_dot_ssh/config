@@ -1,0 +1,12 @@
+Host github.com
+  HostName github.com
+  User git
+  AddKeysToAgent yes
+  UseKeychain yes
+  IdentityFile ~/.ssh/bounteous17_git
+
+Host 192.168.*.*
+  User bounteous
+  AddKeysToAgent yes
+  UseKeychain yes
+  IdentityFile ~/.ssh/alexserra258+dev

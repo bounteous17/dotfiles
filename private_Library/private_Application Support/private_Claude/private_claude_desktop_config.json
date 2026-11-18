@@ -1,0 +1,109 @@
+{
+  "coworkUserFilesPath": "/Users/aserra/Claude",
+  "preferences": {
+    "coworkBrowserToolsEnabled": true,
+    "coworkPreferredBrowser": "built_in",
+    "launchPreviewPersistedWorkspaces": [],
+    "launchPreviewSessionScopedSessions": [],
+    "coworkLegacyRootGrantsPruned": true,
+    "coworkScheduledTasksEnabled": true,
+    "coworkHipaaRestricted": false,
+    "orgWorkAcrossAppsDisabled": false,
+    "ccdScheduledTasksEnabled": true,
+    "sidebarMode": "chat",
+    "bypassPermissionsGateByAccount": {
+      "fd5b9aea-5bbe-4cc5-9690-765181812d54": true
+    },
+    "coworkWebSearchEnabled": false,
+    "coworkModelAutoFallbackByAccount": {
+      "fd5b9aea-5bbe-4cc5-9690-765181812d54": true
+    },
+    "remoteToolsDeviceName": "alexs-macbook-pro-local",
+    "epitaxyPrefs": {
+      "desktop-frame.paneStore.v1": {
+        "state": {
+          "extraPanesByMode": {},
+          "colWeightsByMode": {},
+          "rowSplit": 0.5,
+          "draftNonce": 0,
+          "lastPrimaryCodeSession": null
+        },
+        "version": 4
+      },
+      "starred-local-code-sessions": [],
+      "starred-cowork-spaces": [],
+      "starred-session-groups": [],
+      "dframe-group-scopes": {},
+      "dframe-local-slice": {
+        "pinnedOrder": [],
+        "homeProjectsPinnedOrder": []
+      },
+      "ccd-sessions-filter": {
+        "state": {
+          "selectedProjects": []
+        },
+        "version": 0
+      },
+      "starred-local-routines": [],
+      "dframe-code-sections": {
+        "fd5b9aea-5bbe-4cc5-9690-765181812d54/b392a4a8-ca70-4d3d-a09a-2287b48cc987": {
+          "sections": [
+            {
+              "id": "pinned",
+              "kind": "pinned",
+              "v": 2,
+              "name": "",
+              "order": 0,
+              "sortBy": "recency",
+              "ascending": false,
+              "show": {
+                "metadata": false,
+                "emptyGroups": false,
+                "sideChats": false,
+                "slack": true
+              },
+              "collapsed": false,
+              "shown": true
+            },
+            {
+              "id": "routines",
+              "kind": "routines",
+              "v": 2,
+              "name": "",
+              "order": 1,
+              "sortBy": "recency",
+              "ascending": false,
+              "show": {
+                "metadata": false,
+                "emptyGroups": false,
+                "sideChats": false,
+                "slack": true
+              },
+              "collapsed": true,
+              "shown": false
+            },
+            {
+              "id": "sessions",
+              "kind": "sessions",
+              "v": 2,
+              "name": "",
+              "order": 2,
+              "sortBy": "recency",
+              "ascending": false,
+              "show": {
+                "metadata": false,
+                "emptyGroups": false,
+                "sideChats": false,
+                "slack": true
+              },
+              "collapsed": false,
+              "shown": true
+            }
+          ],
+          "migratedFrom": 1,
+          "prefsSeeded": true
+        }
+      }
+    }
+  }
+}
